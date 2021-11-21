@@ -2,4 +2,4 @@
  Primeiro Repositório Versionado GIT e GitHub
  (Desenvolvido no **Curso em Vídeo** do Gustavo Guanabara)
  
- Essa linha eu alterei no site do Github
+ Essa linha eu alterei no site do *Github*
